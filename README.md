@@ -1,2 +1,2 @@
 # DistributedSystem
-Use CM 
+This class aims to provide fundamental principles and topics of distributed systems such as IoT, cloud computing systems, online games, social network systems, contents distribution systems, blockchain systems, and other client/server or p2p applications. The topics covered by this class include how to design and develop distributed systems, what should be considered in order to solve problems due to communication delay, and what should be synchronized among communication entities.
